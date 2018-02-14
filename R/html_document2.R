@@ -1,5 +1,6 @@
 #' almost same as [rmarkdown::html_document()]
 #'
+#' @importFrom magrittr %>%
 #' @importFrom readr read_file write_lines
 #' @importFrom rmarkdown html_document
 #' @importFrom stringr str_replace_all
